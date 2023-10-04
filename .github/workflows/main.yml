@@ -1,0 +1,17 @@
+name: Deploy Worker
+on:
+  push:
+  pull_request:
+  repository_dispatch:
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    needs: test
+    steps:
+      - uses: actions/checkout@v2
+      - name: Build & Deploy Worker
+        uses: cloudflare/wrangler-action@v3
+        with:
+          apiToken: ${{ secrets.4bcF9ROSXpI2158LXsSuzMefWT9olp11q5jmEEX6}}
+          accountId: ${{ secrets.9bcbdd98a5e8c11203c93aadb1d04ace}}
