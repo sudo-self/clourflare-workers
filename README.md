@@ -1,3 +1,6 @@
+[![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/YOURUSERNAME/YOURREPO)
+
+
 # <a href="https://itty-bitty-router.jessejesse.workers.dev">router</a> <--try me<br>
 a router worker written in typescript<br><br>
 ![Screenshot 2023-10-04 at 2 24 28 AM](https://github.com/sudo-self/Cloudflare-Workers/assets/119916323/bba4ee9d-5583-42c2-a98f-901ff52c00b6)
