@@ -1,4 +1,4 @@
-# ![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/YOURUSERNAME/YOURREPO)![Oct-08-2023 17-04-34](https://github.com/sudo-self/bounce/assets/119916323/011bbbe6-a004-4374-8a84-d09e074912ac) <a href="https://itty-bitty-router.jessejesse.workers.dev">router</a> <--try me<br>
+![Oct-08-2023 17-04-34](https://github.com/sudo-self/bounce/assets/119916323/011bbbe6-a004-4374-8a84-d09e074912ac<a href="https://itty-bitty-router.jessejesse.workers.dev">router</a> <--try me<br>
 a router worker written in typescript<br><br>
 ![Screenshot 2023-10-04 at 2 24 28 AM](https://github.com/sudo-self/Cloudflare-Workers/assets/119916323/bba4ee9d-5583-42c2-a98f-901ff52c00b6)
 # <a href="https://r2.jessejesse.workers.dev">geo-worker</a> <--try me<br>
